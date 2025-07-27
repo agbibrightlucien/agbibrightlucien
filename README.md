@@ -2,7 +2,7 @@
 Hi there 👋, I'm **Bright Lucien Jnr Agbi** — a **Computer Science student at the University of Ghana** passionate about building things that work beautifully and solve real problems.
 
 As a developer and digital problem solver, I focus on clean design, accessible UIs, and practical applications. I love turning ideas into web and mobile apps that people find useful and intuitive. My core strengths lie in:
-- 💻 Full-stack web development (React, Node.js, TailwindCSS)
+- 💻 Full-stack web development (React.js, Node.js, Express, MongoDB)
 - 🧠 AI & Cybersecurity exploration
 - ⚙️ Payment system integration (MoMo, Paystack)
 - 📊 Data logic & system design (POS, dashboards)
